@@ -2,4 +2,4 @@
 
 ## desafios
 
-- [ ] Fazer o formulário aparacer, suavemente, quando a página abrir;
+- [x] Fazer o formulário aparacer, suavemente, quando a página abrir;
