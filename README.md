@@ -5,3 +5,4 @@
 - [x] Fazer o formulário aparacer, suavemente, quando a página abrir;
 - [x] Fazer os campos aparecerem da esquerda para a direita, suavisando a entrada e
 fazendo-os entrar em momentos distintos;
+- [x] Quando clicar em login, Fazer o formulario sair da tela, indo para baixo.
